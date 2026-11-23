@@ -117,16 +117,17 @@ Screenshot #1 | Touchdesigner Project | artychot
 
 A TouchDesigner node-based interface showing the architecture of the TOOL_RSVPReader component: text management, word positioning, and visual element compositing through a network of TOPs and Python scripts.
 
+<img width="788" height="512" alt="Capture d’écran, le 2026-11-22 à 18 10 50" src="https://github.com/user-attachments/assets/f7a1d584-1f0a-439a-9c2b-d38faaaa85e1" />
 ￼
  Screenshot #2 | Touchdesigner Rendered Visualisation | artychot 
 A minimalist RSVP interface displaying one word at a time, with a central red fixation point to guide rapid reading and horizontal framing lines.
 
-￼
+<img width="472" height="194" alt="Capture d’écran, le 2026-11-22 à 18 13 33" src="https://github.com/user-attachments/assets/1479e293-5361-4663-8309-8b3220c6018d" />
+
  Example #1 | Touchdesigner Rendered Visualisation | artychot 
 An example of the TOOL_RSVPReader component, displaying the sentence “You do not hate Mondays, you hate capitalism” one word at a time using the RSVP reading method.
 
-[ insert video here ]
-
+https://github.com/user-attachments/assets/cbdd0360-8e54-4194-b87f-94f862b93d5f
 
 
 # **Technical Specifications**
