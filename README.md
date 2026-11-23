@@ -1,9 +1,8 @@
 # TOOL_RSVPReader
+
+      // Français //
+
 A reusable RSVP (Rapid Serial Visual Presentation) text reader component for TouchDesigner
-
-
-// Français //
-
 
 # **Introduction**
 
@@ -86,14 +85,14 @@ Le composant est partagé comme un outil ouvert à l'expérimentation et à l'am
 
 
 
-// English //
+        // English //
 
 
 
 
 
 
-**Introduction**
+# **Introduction**
 
 TOOL_RSVPReader is a standalone, reusable component developed in TouchDesigner. It explores an alternative way of presenting text within visual environments using the RSVP (Rapid Serial Visual Presentation) method.
 
@@ -103,7 +102,7 @@ The reader takes a different approach. Instead of displaying an entire sentence 
 
 Beyond its functional purpose, TOOL_RSVPReader is also an experiment in the role of language within visual compositions. How can a message remain readable in an environment dominated by images? How can attention be directed without adding more visual elements to the screen?
 
-**Visualizations & Screenshots**
+# **Visualizations & Screenshots**
 
 Screenshot #1 | Touchdesigner Project | artychot
 
@@ -121,7 +120,7 @@ An example of the TOOL_RSVPReader component, displaying the sentence “You do n
 
 
 
-**Technical Specifications**
+# **Technical Specifications**
 
 Environment			  TouchDesigner
 Architecture			Standalone, reusable component (TOOL_RSVPReader)
@@ -134,7 +133,7 @@ Text Processing		Automatic word splitting and sequential indexing
 Speed				      Adjustable display interval, in seconds
 Positioning			  Dynamic positioning calculation keeps the recognition point fixed, regardless of word length
 
-**How It Works**
+# **How It Works**
 
 The source text is automatically split into a sequence of individual words, which are then displayed successively at the same screen position.
 
@@ -148,7 +147,7 @@ The reading speed can be adjusted in seconds, allowing the component to adapt to
 Drag the component into your TouchDesigner project, edit the source text directly in its parameters, and adjust the settings to suit your needs.
 Drag, drop and enjoy!
 
-**Development Process**
+# **Development Process**
 
 The development of TOOL_RSVPReader led to a rather unusual form of collaboration between a human and an artificial intelligence.
 
@@ -161,7 +160,8 @@ There was something rather absurd about this arrangement: a human executing a ma
 
 I found this experience just as interesting for the technical result as for the working dynamic it produced. It raises questions about emerging forms
 
-**TOOL_RSVPREADER_v∞ [?]**
+# **TOOL_RSVPREADER_v∞ [?]**
+
 TOOL_RSVPReader is functional and ready for use as a standalone component within TouchDesigner projects.
 While it serves as a reusable foundation, it is not intended to cover every possible reading scenario. The RSVP method, ORP (Optimal Recognition Point) positioning, and display cadence may require adjustments depending on the typeface, language, content type, or presentation conditions.
 
