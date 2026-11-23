@@ -142,16 +142,26 @@ https://github.com/user-attachments/assets/cbdd0360-8e54-4194-b87f-94f862b93d5f
 
 # **Technical Specifications**
 
-Environment			  TouchDesigner
-Architecture			Standalone, reusable component (TOOL_RSVPReader)
-Source Text			  Editable directly through the component's parameters
-Typeface			    Courier New (monospaced font)
-Font Size			    30 px by default, adjustable
-Reading Method		RSVP (Rapid Serial Visual Presentation)
-Visual Reference	ORP (Optimal Recognition Point), with the reference letter highlighted in red
-Text Processing		Automatic word splitting and sequential indexing
-Speed				      Adjustable display interval, in seconds
-Positioning			  Dynamic positioning calculation keeps the recognition point fixed, regardless of word length
+| Environment | - TouchDesigner
+
+| Architecture | - Standalone, reusable component (TOOL_RSVPReader)
+
+| Source Text | - Editable directly through the component's parameters
+
+| Font | - Courier New (monospaced font)
+
+| Font Size | - 30 px by default, adjustable
+
+| Reading Method | - RSVP (Rapid Serial Visual Presentation)
+
+| Visual Reference | - ORP (Optimal Recognition Point), with the reference letter highlighted in red
+
+| Text Processing | - Automatic word splitting and sequential indexing
+
+| Speed | - Adjustable display interval, in seconds
+
+| Positioning | - Dynamic positioning calculation keeps the recognition point fixed, regardless of word length
+
 
 # **How It Works**
 
