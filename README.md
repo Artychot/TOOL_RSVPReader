@@ -1,8 +1,7 @@
 # TOOL_RSVPReader
 
       // Français //
-
-A reusable RSVP (Rapid Serial Visual Presentation) text reader component for TouchDesigner
+Composant de lecture de texte réutilisable basé sur la technique RSVP (Rapid Serial Visual Presentation) pour TouchDesigner
 
 # **Introduction**
 
@@ -88,11 +87,7 @@ Le composant est partagé comme un outil ouvert à l'expérimentation et à l'am
 
 
         // English //
-
-
-
-
-
+Reusable RSVP (Rapid Serial Visual Presentation) text reader component for TouchDesigner
 
 # **Introduction**
 
