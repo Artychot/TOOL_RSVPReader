@@ -93,10 +93,11 @@ Il constitue une base réutilisable, mais n'a pas la prétention de répondre à
 
 Le composant est partagé comme un outil ouvert à l'expérimentation et à l'amélioration. Les adaptations, propositions et contributions permettant de l'ajuster à des besoins spécifiques sont les bienvenues.
 
-
-
-
-
+·
+·
+·
+·
+·
 
         // English //
         
