@@ -35,25 +35,25 @@ https://github.com/user-attachments/assets/cbdd0360-8e54-4194-b87f-94f862b93d5f
 
 # **Caractéristiques techniques**
 
-Environnement           |       TouchDesigner
+| Environnement |      TouchDesigner
 
-Architecture            |       Composant autonome et réutilisable (TOOL_RSVPReader)
+Architecture|Composant autonome et réutilisable (TOOL_RSVPReader)
 
-Texte Source            |       Modifiable directement dans les paramètres du composant
+Texte Source|Modifiable directement dans les paramètres du composant
 
-Typographie             |       Courier New, police monospace assurant une largeur constante des caractères
+Typographie|Courier New, police monospace assurant une largeur constante des caractères
 
-Taille de police        |       30 px par défaut, ajustable
+Taille de police|30 px par défaut, ajustable
 
-Méthode de lecture      |       RSVP (Rapid Serial Visual Presentation)
+Méthode de lecture|RSVP (Rapid Serial Visual Presentation)
 
-Repère visuel 		|       ORP (Optimal Recognition Point), avec mise en évidence rouge de la lettre de référence
+Repère visuel|ORP (Optimal Recognition Point), avec mise en évidence rouge de la lettre de référence
 
-Traitement du texte     |       Découpage automatique en mots et gestion de leur succession par indexation
+Traitement du texte|Découpage automatique en mots et gestion de leur succession par indexation
 
-Vitesse 	 	      |       Cadence de défilement réglable
+Vitesse|Cadence de défilement réglable
 
-Positionnement          |       Calcul dynamique pour maintenir le point de reconnaissance à une position fixe,indépendamment de la longueur des mots.
+Positionnement|Calcul dynamique pour maintenir le point de reconnaissance à une position fixe,indépendamment de la longueur des mots.
 
 
 # **Principe de fonctionnement**
