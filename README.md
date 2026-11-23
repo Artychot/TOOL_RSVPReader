@@ -17,7 +17,7 @@ Au-delà de son aspect fonctionnel, TOOL_RSVPReader est aussi une expérimentati
 
 Capture d’écran #1 | Projet Touchdesigner | artychot
 
-Interface nodale de TouchDesigner présentant l’architecture d’un composant RSVP : gestion du texte, positionnement des mots et assemblage des éléments visuels par un réseau de TOPs et de scripts Python.
+Interface nodale de TouchDesigner présentant l’architecture du composant TOOL_RSVPReader : gestion du texte, positionnement des mots et assemblage des éléments visuels par un réseau de TOPs et de scripts Python.
 
 ￼<img width="788" height="512" alt="Capture d’écran, le 2026-11-22 à 18 10 50" src="https://github.com/user-attachments/assets/f7a1d584-1f0a-439a-9c2b-d38faaaa85e1" />
 
@@ -103,7 +103,7 @@ Beyond its functional purpose, TOOL_RSVPReader is also an experiment in the role
 
 Screenshot #1 | Touchdesigner Project | artychot
 
-A TouchDesigner node-based interface showing the architecture of an RSVP component: text management, word positioning, and visual element compositing through a network of TOPs and Python scripts.
+A TouchDesigner node-based interface showing the architecture of the TOOL_RSVPReader component: text management, word positioning, and visual element compositing through a network of TOPs and Python scripts.
 
 ￼
  Screenshot #2 | Touchdesigner Rendered Visualisation | artychot 
