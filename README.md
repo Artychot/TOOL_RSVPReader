@@ -15,19 +15,19 @@ Au-delà de son aspect fonctionnel, TOOL_RSVPReader est aussi une expérimentati
 
 # **Visualisations & Capture d’écran**
 
-Capture d’écran #1 | Projet Touchdesigner | artychot
+**Capture d’écran #1 | Projet Touchdesigner | artychot**
 
 Interface nodale de TouchDesigner présentant l’architecture du composant TOOL_RSVPReader : gestion du texte, positionnement des mots et assemblage des éléments visuels par un réseau de TOPs et de scripts Python.
 
 ￼<img width="788" height="512" alt="Capture d’écran, le 2026-11-22 à 18 10 50" src="https://github.com/user-attachments/assets/f7a1d584-1f0a-439a-9c2b-d38faaaa85e1" />
 
- Capture d’écran #2 | Visualisation du Rendu dans Touchdesigner | artychot 
+** Capture d’écran #2 | Visualisation du Rendu dans Touchdesigner | artychot **
 
 Interface RSVP minimaliste affichant un mot à la fois, avec un repère central rouge pour guider la lecture rapide et un encadrement horizontal.
 
 ￼<img width="472" height="194" alt="Capture d’écran, le 2026-11-22 à 18 13 33" src="https://github.com/user-attachments/assets/1479e293-5361-4663-8309-8b3220c6018d" />
 
- Extrait #1 | Visualisation du Rendu dans Touchdesigner | artychot
+** Extrait #1 | Visualisation du Rendu dans Touchdesigner | artychot**
 
 Démonstration du composant TOOL_RSVPReader : une phrase défile mot par mot selon la méthode de lecture RSVP, jusqu’à révéler : « Tu ne détestes pas les lundis, tu détestes le capitalisme. »   [ insérer vidéo ici ]
 
