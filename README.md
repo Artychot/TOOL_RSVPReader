@@ -196,3 +196,7 @@ TOOL_RSVPReader is functional and ready for use as a standalone component within
 While it serves as a reusable foundation, it is not intended to cover every possible reading scenario. The RSVP method, ORP (Optimal Recognition Point) positioning, and display cadence may require adjustments depending on the typeface, language, content type, or presentation conditions.
 
 This component is shared as a tool open to experimentation and improvement. Adaptations, proposals, and contributions aimed at tailoring it to specific needs are welcome.
+
+
+
+
