@@ -5,7 +5,7 @@ A reusable RSVP (Rapid Serial Visual Presentation) text reader component for Tou
 // Français //
 
 
-**Introduction**
+# **Introduction**
 
 TOOL_RSVPReader est un composant autonome et réutilisable développé dans TouchDesigner. Il explore une autre manière de présenter du texte dans un environnement visuel, en utilisant la méthode RSVP (Rapid Serial Visual Presentation).
 
@@ -15,7 +15,7 @@ Le principe du lecteur est simple : plutôt que d'afficher une phrase entière e
 
 Au-delà de son aspect fonctionnel, TOOL_RSVPReader est aussi une expérimentation sur la place du langage dans les compositions visuelles. Comment rendre un message lisible dans un environnement où l'image domine ? Comment diriger l'attention sans multiplier les éléments à l'écran ?
 
-**Visualisations & Capture d’écran**
+# **Visualisations & Capture d’écran**
 
 Capture d’écran #1 | Projet Touchdesigner | artychot
 
@@ -31,7 +31,7 @@ Interface RSVP minimaliste affichant un mot à la fois, avec un repère central 
 Démonstration du composant TOOL_RSVPReader : une phrase défile mot par mot selon la méthode de lecture RSVP, jusqu’à révéler : « Tu ne détestes pas les lundis, tu détestes le capitalisme. »   [ insérer vidéo ici ]
 
 
-**Caractéristiques techniques**
+# **Caractéristiques techniques**
 
 Environnement 			TouchDesigner
 Architecture 				Composant autonome et réutilisable (TOOL_RSVPReader)
@@ -44,7 +44,7 @@ Traitement du texte Découpage automatique en mots et gestion de leur succession
 Vitesse 	 				  Cadence de défilement réglable
 Positionnement 			Calcul dynamique pour maintenir le point de reconnaissance à une position fixe,indépendamment de la longueur des mots.
 
-**Principe de fonctionnement**
+# **Principe de fonctionnement**
 
 Le texte source est automatiquement découpé en une séquence de mots. Ceux-ci sont ensuite affichés successivement au même emplacement. Pour chaque mot, le système détermine le point de reconnaissance optimal (ORP), puis ajuste sa position horizontale afin que la lettre de référence reste alignée avec un repère fixe à l'écran.
 
@@ -52,14 +52,14 @@ L'utilisation de Courier New permet de conserver une largeur constante entre les
 
 La cadence de lecture est réglable en secondes, ce qui permet d'adapter le comportement du composant au contexte de présentation et au type de contenu.
 
-**Installation**
+# **Installation**
 
 Glissez le composant dans votre projet TouchDesigner, modifiez le texte source directement dans ses paramètres et ajustez les réglages selon vos besoins.
 
 Cliquez, glissez et profitez !
 
 
-**Démarche de développement**
+# **Démarche de développement**
 
 Le développement de TOOL_RSVPReader a donné lieu à une forme de collaboration assez particulière entre un humain et une intelligence artificielle.
 
@@ -74,7 +74,7 @@ Il y avait quelque chose d'assez absurde dans cette situation : un humain qui ex
 Cette expérience m'a intéressé autant pour son résultat technique que pour la dynamique qu'elle a fait émerger. Elle ouvre une réflexion sur les nouvelles formes de collaboration entre humains et intelligences artificielles, mais aussi sur les déplacements de rôles, de compétences et de responsabilités qu'elles peuvent entraîner.
 
 
-**TOOL_RSVPREADER_v∞[?] **
+# **TOOL_RSVPREADER_v∞[?] **
 
 TOOL_RSVPReader est fonctionnel et prêt à être utilisé comme composant autonome dans des projets TouchDesigner.
 Il constitue une base réutilisable, mais n'a pas la prétention de répondre à tous les contextes de lecture. La méthode RSVP, le positionnement ORP et la cadence d'affichage peuvent nécessiter des ajustements selon la typographie, la langue, le type de contenu ou les conditions de présentation.
