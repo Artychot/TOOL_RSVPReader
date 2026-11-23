@@ -35,9 +35,9 @@ https://github.com/user-attachments/assets/cbdd0360-8e54-4194-b87f-94f862b93d5f
 
 # **Caractéristiques techniques**
 
-| Environnement |      TouchDesigner
+| Environnement | - TouchDesigner
 
-Architecture|Composant autonome et réutilisable (TOOL_RSVPReader)
+| Architecture  | - Composant autonome et réutilisable (TOOL_RSVPReader)
 
 Texte Source|Modifiable directement dans les paramètres du composant
 
