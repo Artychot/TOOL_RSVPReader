@@ -31,7 +31,7 @@ Interface RSVP minimaliste affichant un mot à la fois, avec un repère central 
 
 ** Extrait #1 | Visualisation du Rendu dans Touchdesigner | artychot**
 
-Démonstration du composant TOOL_RSVPReader : une phrase défile mot par mot selon la méthode de lecture RSVP, jusqu’à révéler : « Tu ne détestes pas les lundis, tu détestes le capitalisme. »   [ insérer vidéo ici ]
+Démonstration du composant TOOL_RSVPReader : une phrase défile mot par mot selon la méthode de lecture RSVP, jusqu’à révéler : « Tu ne détestes pas les lundis, tu détestes le capitalisme. »   
 
 https://github.com/user-attachments/assets/cbdd0360-8e54-4194-b87f-94f862b93d5f
 
